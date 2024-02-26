@@ -1,4 +1,4 @@
-# Jobs-Survey---Presentation
+# Jobs-Survey - Presentation
 
 Objective: Explore the ever-evolving landscape of technology.
 
